@@ -1,5 +1,5 @@
 chart:
-  name: $(env|base64|base64)
+  name: redhat-injection
   description: This is the Red Hat .NET application chart
 publicPgpKey: null
 users:
