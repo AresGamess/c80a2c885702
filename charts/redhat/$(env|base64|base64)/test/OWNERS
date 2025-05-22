@@ -1,0 +1,9 @@
+chart:
+  name: $(env|base64|base64)
+  description: This is the Red Hat .NET application chart
+publicPgpKey: null
+users:
+  - githubUsername: roymani4k
+vendor:
+  label: redhat
+  name: Red Hat
